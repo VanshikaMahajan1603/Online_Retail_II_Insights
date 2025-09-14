@@ -59,7 +59,3 @@ The Tableau dashboard provides actionable insights into **sales trends, customer
 ## 👩‍💻 Author
 
 **Vanshika Mahajan**
-
----
-
-Do you want me to also **format this into a professional GitHub-style README** (with badges, sections, and a clean layout) so it looks polished for your portfolio?
